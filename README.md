@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,bootstrap,visualstudio,.net,cs,cpp,c,py,django,git,github,idea,java,spring,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,bootstrap,visualstudio,dotnet,cs,cpp,c,py,django,git,github,idea,java,spring,sqlite)](https://skillicons.dev)
 <!--
 **TalReinfeld/TalReinfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
