@@ -4,7 +4,7 @@ Over the years, my dedication to mastering the world of software development has
 With my academic achievements, industry experiences, and a strong foundation in computer science, I am eager to contribute my expertise to new and exciting challenges.
 I am open to networking and exploring opportunities where I can continue to grow, innovate, and make a meaningful impact in the world of technology.
 
-![Warrior cat for the readme.](https://p1.hiclipart.com/preview/475/532/11/book-drawing-coloring-book-computer-cartoon-desktop-computers-computer-monitors-tablet-computers-personal-computer-png-clipart.jpg)
+![Warrior cat for the readme.](https://pngimages.in/uploads/png-webp/2022/2022-March/boss-face-cartoon,_baby_png.webp)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,bootstrap,visualstudio,dotnet,cs,cpp,c,py,django,git,github,idea,java,spring,sqlite)](https://skillicons.dev)
 <!--
