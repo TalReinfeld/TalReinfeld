@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Warrior cat for the readme.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 I am Tal, a computer science graduate with a passion for innovation and problem-solving.
 Over the years, my dedication to mastering the world of software development has led me to diverse experiences and exciting challenges.
 With my academic achievements, industry experiences, and a strong foundation in computer science, I am eager to contribute my expertise to new and exciting challenges.
