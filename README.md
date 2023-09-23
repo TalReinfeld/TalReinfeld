@@ -3,6 +3,9 @@ I am Tal, a computer science graduate with a passion for innovation and problem-
 Over the years, my dedication to mastering the world of software development has led me to diverse experiences and exciting challenges.
 With my academic achievements, industry experiences, and a strong foundation in computer science, I am eager to contribute my expertise to new and exciting challenges.
 I am open to networking and exploring opportunities where I can continue to grow, innovate, and make a meaningful impact in the world of technology.
+
+![Warrior cat for the readme.](https://myoctocat.com/assets/images/octocats/octocat-25.png)
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,bootstrap,visualstudio,dotnet,cs,cpp,c,py,django,git,github,idea,java,spring,sqlite)](https://skillicons.dev)
 <!--
 **TalReinfeld/TalReinfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
