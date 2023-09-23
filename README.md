@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Warrior cat for the readme.](https://drive.google.com/drive/u/0/folders/1sfx_dYHyF26lfi1LGTuOQ1n6eSc0EYPJ)
+![Warrior cat for the readme.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 I am Tal, a computer science graduate with a passion for innovation and problem-solving.
 Over the years, my dedication to mastering the world of software development has led me to diverse experiences and exciting challenges.
